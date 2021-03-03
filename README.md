@@ -4,7 +4,8 @@
 
 ###### Heading
 
-
+- [x] finish my project 
+- [ ] open pull request
 this is my first demo project
 
 **hello world**
@@ -39,3 +40,10 @@ this site was built using [My Home Page](https://google.com)
 1. james
 2. john
 3. alen
+
+
+4. list item
+    - first nested list item
+    - second nested list item
+
+ 
